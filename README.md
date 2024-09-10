@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Inventory Management Software
+a software solution to track, manage, and control the inventory, which includes raw materials, components, and finished products. It helps streamline operations by ensuring accurate records, optimizing stock levels, reducing costs, and improving efficiency in supply chain management.
+
 
 ## Getting Started
 
